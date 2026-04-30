@@ -1,12 +1,6 @@
 # Italy Regulatory Documents
 
-Markdown versions of regulatory documents for Italy, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
-
-## Documents
-
-| Document | Source File |
-|---|---|
-| [Annex A Zombie Hoard](Annex_A_-_Zombie_Hoard.md) | Annex A - Zombie Hoard.docx |
+Markdown versions of regulatory documents for Italy, extracted from the DBNSA Regulatory Repository.
 
 ## Source
 
