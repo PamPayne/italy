@@ -4,7 +4,9 @@ Markdown versions of regulatory documents for Italy, sourced from the DBNSA Regu
 
 ## Documents
 
-*Document index will be updated once files are processed.*
+| Document | Source File |
+|---|---|
+| [Annex A Zombie Hoard](Annex_A_-_Zombie_Hoard.md) | Annex A - Zombie Hoard.docx |
 
 ## Source
 
